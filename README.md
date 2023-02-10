@@ -1,3 +1,2 @@
 # hello-world
-No description
-I am clueless with GitHub.
+I am clueless.
